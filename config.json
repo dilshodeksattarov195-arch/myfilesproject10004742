@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersarse",
+        "uuid": 1024272,
+        "checksum": "x63dco"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
